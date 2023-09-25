@@ -9,3 +9,11 @@ git commit -m "commentaire"
 git push
 
 commande pull : git pull
+
+commandes pour créer une brancher et switcher
+
+git branch
+
+git checkout 
+
+
