@@ -8,3 +8,4 @@ git commit -m "commentaire"
 
 git push
 
+commande pull : git pull
